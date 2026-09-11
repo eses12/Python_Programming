@@ -22,9 +22,9 @@ print("짝수" if a % 2 == 0 else "홀수")
 
 
 score = 85
-# 90점이상이면 "A"
-# 80점이상이면 "B"
-# 70점이상이면 "C"
-# 70점미만이면 "D"
+# 90점이상이면 A
+# 80점이상이면 B
+# 70점이상이면 C
+# 70점미만이면 D
 
 print("A" if score >= 90 else "B" if score >= 80 else "C" if score >= 70 else "D")

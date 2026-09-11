@@ -1,4 +1,4 @@
-# 연산자
+# 연산자 
 
 # 산술 연산자
 a = 10
@@ -10,7 +10,7 @@ print(a * b)
 print(a / b)
 print(a % b)  # 나머지
 print(a // b)  # 몫
-print(a**b)  # 거듭제곱
+print(a**b)   #  거듭제곱
 
 # 복합 대입 연산자
 a += 4
@@ -44,3 +44,4 @@ if a>0 or a/b:
     print("yes")
 else:
     print("no")
+
